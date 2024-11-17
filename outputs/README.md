@@ -1,0 +1,1 @@
+This folder contains all output images and files of this project.
