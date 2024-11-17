@@ -5,12 +5,11 @@ A simple solution has been provided for detecting defects in manufactured object
 
 #### Course concepts used - 
 1. - Edge Detection Algorithms
-2. - 
-3. -
+
    
 #### Additional concepts used -
 1. - Using XOR for finding differences 
-2. -
+
    
 #### Dataset - 
 Difficult to find proper databases and hence used images from the internet for testing.
@@ -26,17 +25,13 @@ Difficult to find proper databases and hence used images from the internet for t
 
 ### Steps:
 1. Clone Repository
-```git clone https://github.com/Digital-Image-Processing-PES-ECE/project-name.git ```
+```git clone https://github.com/Digital-Image-Processing-PES-ECE/Defect-Detection-in-Manufactured-Objects-using-Edge-Detection-Techniques.git ```
 
-2. Install Dependencies
-```pip install -r requirements.txt```
 
-3. Run the Code
-```python main.py (for eg.)```
 
 ### Outputs:
-* Important intermediate steps
 * Final output images 
+* Confidence score
 
 ### References:
 1. - •	https://homepages.inf.ed.ac.uk/rbf/HIPR2/roberts.htm
